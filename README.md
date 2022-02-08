@@ -1,12 +1,12 @@
 # MIR-Project
 Modern Information Retrieval Project 
 
-**Phase1:**
-  -Data preprocessing
-  -Create Positional Index and Bigram Index
-  -Compression with Gamma Code and Variable Byte Code
-  -Decode and Load index
-  -Query Correction
+**__Phase1:__**
+  - Data preprocessing
+  - Create Positional Index and Bigram Index
+  - Compression with Gamma Code and Variable Byte Code
+  - Decode and Load index
+  - Query Correction
 
 **Phase2:**
   -Language Model
